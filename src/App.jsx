@@ -83,6 +83,10 @@ function App() {
           </div>
         </div>
       </div>
+
+      <div className="w-full text-center text-white font-bold text-xl">
+      Engineered by <a href="https://github.com/Trisha2411Ghosh" font-semibold target="_blank" className="underline">Trisha</a> 💖
+      </div>
     </>
   )
 }
